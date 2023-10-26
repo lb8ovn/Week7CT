@@ -23,7 +23,7 @@ meeting_times = {
     "COM241": "1:00 p.m."
 }
 
-# Get the course number from the user
+# Prompt user for a course number
 course_number = input("Please enter a course number: ")
 
 # Check if the course number exists in the dictionaries
